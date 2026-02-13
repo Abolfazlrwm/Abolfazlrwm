@@ -1,16 +1,20 @@
-## Hi there 👋
+# Abolfazl's Portfolio 🌟
 
-<!--
-**Abolfazlrwm/Abolfazlrwm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm **Abolfazl**, a Full-Stack Developer passionate about **Artificial Intelligence, Machine Learning, and Security**.
 
-Here are some ideas to get you started:
+💻 **Skills:**
+- Programming Languages: C, C++, Python, JavaScript
+- Web Development: Django, HTML, CSS, WordPress
+- Frameworks & Tools: Qt, Docker, Git, GitHub, VS Code
+- AI & ML: Scikit-Learn, TensorFlow, PyTorch
+- Security: Basic penetration testing and software security
+- Operating Systems: Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Interests:**
+- Developing intelligent systems and AI models
+- Full-Stack Web Development
+- Software and network security
+
+📫 **Contact:**
+- Email: Abolfazl.rwm@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abolfazl-ranjbaran
