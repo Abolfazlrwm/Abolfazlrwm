@@ -45,8 +45,6 @@
   </a>
 </p>
 
-> 💡 Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repository names (e.g. the Telegram shop bot, the Next.js website).
-
 ---
 
 ### 📊 GitHub Stats
