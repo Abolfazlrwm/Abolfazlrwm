@@ -37,11 +37,11 @@
 ### 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Abolfazlrwm/Machine-Learning">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=Machine-Learning&theme=default" />
-  </a>
   <a href="https://github.com/Abolfazlrwm/SecureSync">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=SecureSync&theme=default" />
+  </a>
+  <a href="https://github.com/Abolfazlrwm/Machine-Learning">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=Machine-Learning&theme=default" />
   </a>
 </p>
 
