@@ -1,65 +1,143 @@
-<h1 align="center">Hi there, I'm Abolfazl Ranjbaran 👋</h1>
+<div align="center">
 
-<h3 align="center">Computer Engineering Student (AI) @ Isfahan University of Technology</h3>
+# ABOLFAZL RANJBARAN
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Telegram+Bot+Developer;Django+%7C+Next.js+%7C+React;Always+learning+something+new" alt="Typing SVG" />
-</p>
+### Software Engineer · AI Developer · Builder
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abolfazl-ranjbaran-8307b1353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Abolfazl_rwm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://patrik-rwm.ir/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=todoist&logoColor=white" /></a>
-  <a href="mailto:abolfazl.rwm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**I build systems, tools and intelligent products around difficult problems.**
 
----
+<br>
 
-### 🚀 About Me
+[**Portfolio**](https://abolfazl-ranjbaran-portfolio.vercel.app/) ·
+[**LinkedIn**](https://www.linkedin.com/in/abolfazl-ranjbaran-8307b1353/) ·
+[**GitHub**](https://github.com/Abolfazlrwm)
 
-- 🎓 B.Sc. student in **Computer Engineering (Artificial Intelligence)** at Isfahan University of Technology
-- 💻 Freelance software developer — building custom **websites** and **Telegram bots** for real clients
-- 🛠️ Comfortable across the stack: backend (Django), frontend (Next.js/React), and desktop (Qt/C++)
-- 🎨 Also into **UI/UX design** and **Photoshop** — I like my projects to work well *and* look good
-- 🌱 Currently sharpening my skills in AI and modern web architecture
-- 📫 Reach me on [Telegram](https://t.me/Abolfazl_rwm) or [abolfazl.rwm@gmail.com](mailto:abolfazl.rwm@gmail.com)
+<br>
+
+`BUILD` · `BREAK` · `UNDERSTAND` · `REBUILD`
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## THE LAB
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,js,django,nextjs,react,html,css,git,figma,photoshop" />
-</p>
+I like difficult problems.
 
----
+Not because they're easy to explain —
+because they're interesting to solve.
 
-### 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/Abolfazlrwm/SecureSync">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=SecureSync&theme=default" />
-  </a>
-  <a href="https://github.com/Abolfazlrwm/Machine-Learning">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=Machine-Learning&theme=default" />
-  </a>
-</p>
+My work sits around **software engineering, artificial intelligence, systems and developer tools**.
 
 ---
 
-### 📊 GitHub Stats
+### 01 / SECURESYNC
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Abolfazlrwm&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazlrwm&layout=compact&theme=default&hide_border=true" />
-</p>
+**Encrypted peer-to-peer file synchronization.**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abolfazlrwm&theme=default&hide_border=true" />
-</p>
+A systems project built around real networking, asynchronous programming, encryption, testing and clean architecture.
+
+`Python` · `AsyncIO` · `P2P` · `Cryptography` · `Clean Architecture`
+
+> **Engineering flagship**
+
+[View project →](https://github.com/Abolfazlrwm/SecureSync)
 
 ---
 
-<p align="center">
-  <i>For more of my work and portfolio, visit <a href="https://patrik-rwm.ir/">patrik-rwm.ir</a></i>
-</p>
+### 02 / INTELLIGENCE
+
+**Machine learning experiments and practical AI projects.**
+
+Exploring machine learning through real problems including text classification, recommendation systems and predictive models.
+
+`Python` · `Scikit-learn` · `TensorFlow` · `Machine Learning`
+
+[Explore the lab →](https://github.com/Abolfazlrwm/Machine-Learning)
+
+---
+
+### 03 / FROM THE TOOLBOX
+
+**A collection of practical tools, automations and experiments.**
+
+Telegram bots, web utilities, desktop applications, automation scripts and other things built while solving real problems.
+
+`Python` · `JavaScript` · `Node.js` · `C++` · `Qt`
+
+[Open the toolbox →](https://github.com/Abolfazlrwm/awesome-scripts)
+
+---
+
+## HOW I BUILD
+
+```text
+01  UNDERSTAND
+    Start with the problem, not the framework.
+
+02  DESIGN
+    Think about boundaries, trade-offs and failure modes.
+
+03  BUILD
+    Make it real.
+
+04  BREAK
+    Test the things that shouldn't fail.
+
+05  DOCUMENT
+    If a decision matters, write down why.
+```
+
+---
+
+## CURRENTLY BUILDING
+
+```text
+◉ AI / Machine Learning
+◉ Deep Learning
+◉ Software Systems
+◉ Networking & Distributed Systems
+◉ Developer Tools
+```
+
+---
+
+## ENGINEERING
+
+**Languages**
+
+`Python` `C++` `JavaScript` `TypeScript` `SQL`
+
+**AI / Machine Learning**
+
+`PyTorch` `TensorFlow` `Scikit-learn`
+
+**Backend / Full-Stack**
+
+`Django` `Node.js` `React` `Next.js` `REST APIs`
+
+**Systems / DevOps**
+
+`Qt` `Linux` `Docker` `Git` `GitHub Actions`
+
+---
+
+## SELECTED WORK
+
+| Project              | Focus                                    |
+| -------------------- | ---------------------------------------- |
+| **SecureSync**       | Distributed systems · P2P · Cryptography |
+| **Machine-Learning** | AI · Machine Learning · NLP              |
+| **Awesome Scripts**  | Automation · Bots · Developer Tools      |
+
+---
+
+<div align="center">
+
+### BUILD → SHIP → LEARN → REPEAT
+
+<br>
+
+**Abolfazl Ranjbaran**
+
+</div>
