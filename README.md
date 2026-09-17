@@ -1,8 +1,15 @@
 <div align="center">
 
-# ABOLFAZL RANJBARAN
+<img src="./assets/abolfazl-hero.gif" alt="Abolfazl Ranjbaran — Software Engineer, AI Developer, Builder" width="100%">
 
-### Software Engineer · AI Developer · Builder
+<br>
+
+<a href="https://abolfazl-ranjbaran-portfolio.vercel.app/">Portfolio</a>
+ ·  <a href="https://www.linkedin.com/in/abolfazl-ranjbaran-8307b1353/">LinkedIn</a>
+ ·  <a href="mailto:abolfazl.rwm@gmail.com">Email</a>
+
+</div>
+
 
 **I build systems, tools and intelligent products around difficult problems.**
 
