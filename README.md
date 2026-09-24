@@ -4,7 +4,6 @@
 
 <br>
 
-<a href="https://abolfazl-ranjbaran-portfolio.vercel.app/">Portfolio</a>
  ·  <a href="https://www.linkedin.com/in/abolfazl-ranjbaran-8307b1353/">LinkedIn</a>
  ·  <a href="mailto:abolfazl.rwm@gmail.com">Email</a>
 
@@ -15,7 +14,6 @@
 
 <br>
 
-[**Portfolio**](https://abolfazl-ranjbaran-portfolio.vercel.app/) ·
 [**LinkedIn**](https://www.linkedin.com/in/abolfazl-ranjbaran-8307b1353/) ·
 [**GitHub**](https://github.com/Abolfazlrwm)
 
