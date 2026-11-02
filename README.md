@@ -1,116 +1,126 @@
+<!-- ============================================================
+  Abolfazl Ranjbaran — GitHub Profile README
+  Where to paste: repo "Abolfazlrwm/Abolfazlrwm" → README.md (branch: main)
+  Fully self-contained — no local SVG assets needed, everything renders from URLs.
+============================================================= -->
+
+<h1 align="center">Abolfazl Ranjbaran</h1>
+
+<p align="center">
+  <b>Back-end &amp; AI Engineer</b> · Computer Engineering @ IUT<br>
+  I build the unglamorous parts — protocols, engines, runtimes — until they feel inevitable.
+</p>
+
 <div align="center">
-
-<img src="./assets/hero.svg" alt="Abolfazl Ranjbaran — Software Engineer, AI Developer, Systems Builder" width="100%">
-
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazl-ranjbaran-8307b1353/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abolfazl_rwm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=googlechrome&logoColor=22d3ee)](https://patrik-rwm.ir/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazlranjbaran.dev@gmail.com)
 
-<img src="./assets/divider.svg" width="100%" alt="">
-
-<img src="./assets/stats.svg" width="100%" alt="413 tests, 93% coverage, 26 architecture decision records in SecureSync; 34 ready-to-use projects shared">
-
 </div>
 
-<div align="center">
+> *I like difficult problems — not because they're easy to explain, but because they're interesting to solve.*
 
-### THE LAB
+---
 
-*I like difficult problems — not because they're easy to explain, but because they're interesting to solve.*
+## ⚙️ THE LAB
 
-</div>
+Three kinds of work, all open source, all engineered the same way: clear boundaries, real tests, written decisions.
 
-<br>
+### 🔐 Systems & Networking
 
-<a href="https://github.com/Abolfazlrwm/SecureSync">
-  <img src="./assets/card-securesync.svg" alt="SecureSync — encrypted peer-to-peer file sync engine" width="100%">
-</a>
+| Project | What it is |
+|---|---|
+| [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/SecureSync?style=social) | Encrypted P2P file synchronization engine — async networking, end-to-end encryption, Clean Architecture. **576 tests · 94% coverage · CI on 3 OSes · 27 ADRs.** |
+| [**NetScope**](https://github.com/Abolfazlrwm/netscope) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/netscope?style=social) | Network troubleshooting that tells you whether the problem is your Wi-Fi, your ISP or the service — **with evidence, not just ping numbers.** |
+| [**live-attack-map**](https://github.com/Abolfazlrwm/live-attack-map) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/live-attack-map?style=social) | SSH honeypot feeding a real-time world attack map. |
+| [**hyperfinder**](https://github.com/Abolfazlrwm/hyperfinder) | Multi-threaded file search engine in **C++17** — built on a custom architecture. |
 
-<a href="https://github.com/Abolfazlrwm/live-attack-map">
-  <img src="./assets/card-live-attack-map.svg" alt="Live Attack Map — SSH honeypot with a real-time world map" width="100%">
-</a>
+### 🤖 AI & Agents
 
-<a href="https://github.com/Abolfazlrwm/NetScope">
-  <img src="./assets/card-netscope.svg" alt="NetScope — evidence-based network troubleshooting" width="100%">
-</a>
+| Project | What it is |
+|---|---|
+| [**NexusAgent**](https://github.com/Abolfazlrwm/nexusagent) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/nexusagent?style=social) | Modular runtime for AI agents — agents, providers, tools, memory, and a small readable core. |
+| [**ForecastForge**](https://github.com/Abolfazlrwm/forecastforge) | Reproducible time-series forecasting with **leakage-safe walk-forward backtesting** — strict mypy, 85% coverage floor, ADR-driven. |
+| [**Machine-Learning Lab**](https://github.com/Abolfazlrwm/Machine-Learning) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/Machine-Learning?style=social) | SMS spam detection, stock movement prediction, and other applied ML experiments. |
 
-<a href="https://github.com/Abolfazlrwm/nexusagent">
-  <img src="./assets/card-nexusagent.svg" alt="NexusAgent — modular runtime for AI agents" width="100%">
-</a>
+### 🚀 Products & Tools
 
-<a href="https://github.com/Abolfazlrwm/awesome-scripts">
-  <img src="./assets/card-toolbox.svg" alt="Awesome Scripts — 34 ready-to-use bots, web and desktop tools" width="100%">
-</a>
+| Project | What it is |
+|---|---|
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/awesome-scripts?style=social) | 30+ ready-to-use Telegram bots, web and desktop tools — my most-starred work. |
+| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine that makes distributed execution explicit. |
+| [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js. |
 
-<a href="https://github.com/Abolfazlrwm/football-battle-arena">
-  <img src="./assets/card-football.svg" alt="Football Battle Arena — cinematic football site built with Next.js" width="100%">
-</a>
+---
 
-<div align="center">
-
-More: [Machine Learning Lab](https://github.com/Abolfazlrwm/Machine-Learning) · [All repositories](https://github.com/Abolfazlrwm?tab=repositories)
-
-<img src="./assets/divider.svg" width="100%" alt="">
-
-</div>
-
-## HOW I BUILD
+## 🔨 HOW I BUILD
 
 ```text
 01  UNDERSTAND   Start with the problem, not the framework.
 02  DESIGN       Think about boundaries, trade-offs and failure modes.
 03  BUILD        Make it real.
 04  BREAK        Test the things that shouldn't fail.
-05  DOCUMENT     If a decision matters, write down why. (26 ADRs and counting.)
+05  DOCUMENT     If a decision matters, write down why. (27 ADRs and counting.)
 ```
 
-## CURRENTLY BUILDING
+## ◉ CURRENTLY BUILDING
 
 ```text
-◉ Finishing SecureSync toward v1.0
-◉ NetScope — turning the MVP into a real diagnostic platform
-◉ NexusAgent — tool selection and memory
-◉ Football Battle Arena — phase by phase
+◉ SecureSync → v1.0 release + PyPI
+◉ NetScope   → from MVP to a real diagnostic platform
+◉ NexusAgent → tool selection and memory
+◉ Agent platform on top of NexusAgent — self-hostable, deployable, evaluable
 ```
 
-<div align="center">
-<img src="./assets/divider.svg" width="100%" alt="">
-</div>
+---
 
-## ENGINEERING
-
-<!-- Keep only what you can defend in an interview. -->
+## 🧰 ENGINEERING
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## WORK WITH ME
-
-| | |
-|---|---|
-| **Telegram bots** | Shops, subscriptions, games, moderation, AI assistants — designed, deployed and maintained. |
-| **Web applications** | Django / Flask / Next.js backends and frontends, from idea to production. |
-| **Systems & security tooling** | Networking tools, honeypots, encrypted communication, automation. |
-| **AI integration** | Adding ML and LLM features to existing products. |
-
-Have a project in mind? Message me on [Telegram](https://t.me/Abolfazl_rwm) or [email me](mailto:abolfazl.rwm@gmail.com).
+---
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="Build, ship, learn, repeat — Abolfazl Ranjbaran">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abolfazlrwm&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="100%">
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Abolfazlrwm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
+<img src="https://streak-stats.demolab.com?user=Abolfazlrwm&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazlrwm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages">
+
+</div>
+
+---
+
+## 🤝 WORK WITH ME
+
+I take on projects where the backend actually has to work:
+
+- **Telegram bots** — shops, subscriptions, games, moderation, AI assistants
+- **Web backends & apps** — Django / Flask / Next.js
+- **Systems & security tooling** — networking tools, honeypots, encrypted communication
+- **AI integration** — adding ML and LLM features to existing products
+
+<div align="center">
+
+**Let's build something.**
+[![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abolfazl_rwm)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazlranjbaran.dev@gmail.com)
+
 </div>
