@@ -28,7 +28,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 [![SecureSync](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=SecureSync&theme=tokyonight)](https://github.com/Abolfazlrwm/SecureSync)
 
 [![netscope](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=netscope&theme=tokyonight)](https://github.com/Abolfazlrwm/netscope)
-[![live-attack-map](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=live-attack-map&theme=tokyonight)](https://github.com/Abolfazlrwm/live-attack-map)
+[![flowforge](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=flowforge&theme=tokyonight)](https://github.com/Abolfazlrwm/flowforge)
 [![docubot](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=docubot&theme=tokyonight)](https://github.com/Abolfazlrwm/docubot)
 
 </div>
@@ -52,7 +52,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 |---|---|
 | [**NexusHub**](https://github.com/Abolfazlrwm/NexusHub) | Self-hosted AI agent platform on top of NexusAgent — tool calling, streaming, memory & RAG, **eval-first with full trace observability.** |
 | [**NexusAgent**](https://github.com/Abolfazlrwm/nexusagent) | Modular runtime for AI agents — agents, providers, tools, memory, and a small readable core. |
-| [**docubot**](https://github.com/Abolfazlrwm/docubot) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers **with citations. 243 tests · 94% coverage.** |
+| [**docubot**](https://github.com/Abolfazlrwm/docubot) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers **with citations. 298 tests · 94.7% coverage.** |
 | [**ForecastForge**](https://github.com/Abolfazlrwm/forecastforge) | Reproducible time-series forecasting with **leakage-safe walk-forward backtesting** — strict mypy, 85% coverage floor, ADR-driven. |
 | [**Machine-Learning Lab**](https://github.com/Abolfazlrwm/Machine-Learning) | SMS spam detection, stock movement prediction, and other applied ML experiments. |
 
@@ -60,8 +60,8 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 | Project | What it is |
 |---|---|
-| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 30+ ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
-| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine that makes distributed execution explicit — **v1.0.0 shipped.** |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 38 ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
+| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.0 shipped.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
 
 ---
