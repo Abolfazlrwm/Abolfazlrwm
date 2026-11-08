@@ -82,7 +82,16 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 ◉ NexusHub   → agent evals, deployment stories, first external contributors
 ◉ NetScope   → from MVP to a real diagnostic platform
 ◉ NexusAgent → tool selection and memory
+◉ apache/airflow → scheduler follow-up work from the #76629 review feedback
 ```
+
+---
+
+## 🌍 OPEN SOURCE
+
+| Project | What I did | Status |
+|---|---|---|
+| [**Apache Airflow**](https://github.com/apache/airflow) | [#76629](https://github.com/apache/airflow/pull/76629) — DAG-level `on_failure_callback` never fired; the scheduler only logged `callback is empty`. Root-caused a SQLAlchemy session-recovery gap in the scheduler's callback-production path, fixed it, and added failure-mode tests that simulate the poisoned-session state **for real** (genuine `IntegrityError` flush, not mocks). Closes [#63374](https://github.com/apache/airflow/issues/63374). | ✅ CI green on sqlite · postgres · mysql — reviewed, awaiting merge |
 
 ---
 
