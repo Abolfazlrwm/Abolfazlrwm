@@ -1,6 +1,4 @@
-<h1 align="center">Abolfazl Ranjbaran</h1>
-
-<div align="center">
+# Abolfazl Ranjbaran
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Back-end%20%26%20AI%20Engineer&fontSize=30&fontAlignY=42&desc=%C2%B7%20I%20build%20the%20unglamorous%20parts%20%E2%80%94%20protocols%2C%20engines%2C%20runtimes%20%E2%80%94%20until%20they%20feel%20inevitable%20%C2%B7&descSize=15&descAlignY=62&animation=fadeIn)
 
@@ -11,8 +9,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abolfazl_rwm)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazlranjbaran.dev@gmail.com)
 
-</div>
-
 > *I like difficult problems — not because they're easy to explain, but because they're interesting to solve.*
 
 Computer Engineering @ IUT. All open source, all engineered the same way: clear boundaries, real tests, written decisions.
@@ -21,17 +17,12 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 ## ⭐ Featured
 
-<div align="center">
-
 [![NexusHub](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=NexusHub&theme=tokyonight)](https://github.com/Abolfazlrwm/NexusHub)
-[![awesome-scripts](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=awesome-scripts&theme=tokyonight)](https://github.com/Abolfazlrwm/awesome-scripts)
 [![SecureSync](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=SecureSync&theme=tokyonight)](https://github.com/Abolfazlrwm/SecureSync)
-
-[![netscope](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=netscope&theme=tokyonight)](https://github.com/Abolfazlrwm/netscope)
-[![flowforge](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=flowforge&theme=tokyonight)](https://github.com/Abolfazlrwm/flowforge)
 [![docubot](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=docubot&theme=tokyonight)](https://github.com/Abolfazlrwm/docubot)
-
-</div>
+[![forecastforge](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=forecastforge&theme=tokyonight)](https://github.com/Abolfazlrwm/forecastforge)
+[![football-battle-arena](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=football-battle-arena&theme=tokyonight)](https://github.com/Abolfazlrwm/football-battle-arena)
+[![awesome-scripts](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=awesome-scripts&theme=tokyonight)](https://github.com/Abolfazlrwm/awesome-scripts)
 
 ---
 
@@ -61,7 +52,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | Project | What it is |
 |---|---|
 | [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 38 ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
-| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.0 shipped.** |
+| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.0 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
 
 ---
@@ -97,31 +88,25 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 ## 🧰 TOOLBOX
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,ts,react,nextjs,html,css&theme=dark&perline=9" alt="Languages & frameworks" /><br>
-<img src="https://skillicons.dev/icons?i=cpp,qt,postgres,redis,sqlite,docker,githubactions,pytorch,tensorflow&theme=dark&perline=9" alt="Systems & AI" /><br>
-<img src="https://skillicons.dev/icons?i=linux,git,github,nginx,prometheus,grafana,bash,sklearn&theme=dark&perline=9" alt="Ops & tooling" />
-
-</div>
+|  |  |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| **Back-end & APIs** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white) ![aiogram](https://img.shields.io/badge/aiogram-2CA5E4?style=flat&logo=telegram&logoColor=white) |
+| **AI & Data** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white) ![BM25_·_RRF_·_RAGAS](https://img.shields.io/badge/BM25_%C2%B7_RRF_%C2%B7_RAGAS-7AA2F7?style=flat) |
+| **Data & Messaging** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **Front-end** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat) |
+| **Infra & CI/CD** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat&logo=github&logoColor=white) |
+| **Testing & Quality** | ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![MyPy](https://img.shields.io/badge/MyPy-2A6DB2?style=flat) ![Ruff](https://img.shields.io/badge/Ruff-DCA84A?style=flat) ![pre-commit](https://img.shields.io/badge/pre--commit-FAB040?style=flat) |
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abolfazlrwm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats">
-<img src="https://streak-stats.demolab.com?user=Abolfazlrwm&theme=tokyonight&hide_border=true&locale=en" height="165" alt="GitHub streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abolfazlrwm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages">
 
 ### 🐍 Watch me eat commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abolfazlrwm/Abolfazlrwm/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abolfazlrwm/Abolfazlrwm/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Abolfazlrwm/Abolfazlrwm/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Abolfazlrwm/Abolfazlrwm/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
 
 ---
 
@@ -134,10 +119,7 @@ I take on projects where the backend actually has to work:
 - **Systems & security tooling** — networking tools, honeypots, encrypted communication
 - **AI integration** — adding ML and LLM features to existing products
 
-<div align="center">
-
 **Let's build something.**
+
 [![Telegram](https://img.shields.io/badge/Message_me_on_Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Abolfazl_rwm)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abolfazlranjbaran.dev@gmail.com)
-
-</div>
