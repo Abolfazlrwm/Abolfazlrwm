@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="850" height="220" role="img" aria-label="Abolfazl Ranjbaran — Back-end and AI Engineer">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.5" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1a1b26"/>
+      <stop offset="1" stop-color="#16161e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- terminal card -->
+  <rect x="1" y="1" width="848" height="218" rx="12" fill="url(#glow)" stroke="#30363d" stroke-width="1.5"/>
+  <!-- title bar -->
+  <path d="M 1 13 A 12 12 0 0 1 13 1 H 837 A 12 12 0 0 1 849 13 V 37 H 1 Z" fill="#1a1b26"/>
+  <line x1="1" y1="37" x2="849" y2="37" stroke="#262a3d" stroke-width="1"/>
+  <circle cx="26" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="19" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="19" r="6" fill="#28c840"/>
+  <text x="425" y="24" text-anchor="middle" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="12" fill="#565f89">abolfazl@nexus:~/lab</text>
+
+  <!-- whoami -->
+  <text x="44" y="78" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="15" font-weight="bold" fill="#9ece6a">$ whoami</text>
+
+  <!-- name + role -->
+  <text x="44" y="118" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="26" font-weight="bold"><tspan fill="#c0caf5">Abolfazl Ranjbaran</tspan><tspan fill="#565f89"> · </tspan><tspan fill="#7aa2f7">Back-end &amp; AI Engineer</tspan></text>
+
+  <!-- tagline -->
+  <text x="44" y="152" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="13" fill="#565f89">I build the unglamorous parts — protocols, engines, runtimes — until they feel inevitable.</text>
+
+  <!-- prompt + cursor -->
+  <text x="44" y="186" font-family="'JetBrains Mono','Cascadia Code','Fira Code','SF Mono',Consolas,'Liberation Mono',monospace" font-size="13" fill="#565f89"><tspan fill="#9ece6a">$ ls featured/</tspan>   # engines · agents · products — all tested, all documented</text>
+  <rect x="44" y="196" width="0" height="0" fill="#9ece6a"/>
+  <rect x="642" y="173" width="9" height="17" fill="#9ece6a">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.5;0.5;1;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- bottom accent -->
+  <rect x="1.5" y="213.5" width="847" height="5.5" rx="2.75" fill="url(#accent)"/>
+</svg>
