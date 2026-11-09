@@ -1,11 +1,13 @@
-name: Generate contribution snake
+name: Generate Snake
 
 on:
   schedule:
-    - cron: "17 2 * * *"   # daily, ~02:17 UTC
+    - cron: '17 3 * * *'
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - '.github/workflows/snake.yml'
 
 permissions:
   contents: write
@@ -15,18 +17,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Abolfazlrwm
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake to the output branch
-        uses: peaceiris/actions-gh-pages@v4
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
-          force_orphan: true
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
