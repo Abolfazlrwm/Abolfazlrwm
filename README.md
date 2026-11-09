@@ -1,6 +1,6 @@
 # Abolfazl Ranjbaran
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Back-end%20%26%20AI%20Engineer&fontSize=30&fontAlignY=42&desc=%C2%B7%20I%20build%20the%20unglamorous%20parts%20%E2%80%94%20protocols%2C%20engines%2C%20runtimes%20%E2%80%94%20until%20they%20feel%20inevitable%20%C2%B7&descSize=15&descAlignY=62&animation=fadeIn)
+![Header](assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono:wght@500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=640&lines=AI+agents+%C2%B7+RAG+%C2%B7+distributed+systems;Encrypted+P2P+%C2%B7+network+tooling+%C2%B7+honeypots;Clean+architecture+%C2%B7+real+tests+%C2%B7+written+decisions)](https://github.com/Abolfazlrwm)
 
@@ -17,12 +17,14 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 ## ⭐ Featured
 
-[![NexusHub](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=NexusHub&theme=tokyonight)](https://github.com/Abolfazlrwm/NexusHub)
-[![SecureSync](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=SecureSync&theme=tokyonight)](https://github.com/Abolfazlrwm/SecureSync)
-[![docubot](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=docubot&theme=tokyonight)](https://github.com/Abolfazlrwm/docubot)
-[![forecastforge](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=forecastforge&theme=tokyonight)](https://github.com/Abolfazlrwm/forecastforge)
-[![football-battle-arena](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=football-battle-arena&theme=tokyonight)](https://github.com/Abolfazlrwm/football-battle-arena)
-[![awesome-scripts](https://github-readme-stats.vercel.app/api/pin/?username=Abolfazlrwm&repo=awesome-scripts&theme=tokyonight)](https://github.com/Abolfazlrwm/awesome-scripts)
+| Repo | What it is |
+|---|---|
+| [**NexusHub**](https://github.com/Abolfazlrwm/NexusHub) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/NexusHub?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Self-hosted AI agent platform on top of NexusAgent — tool calling, streaming, memory & RAG, **eval-first with full trace observability.** |
+| [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/SecureSync?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Encrypted P2P file synchronization engine — async networking, E2E encryption, Clean Architecture. **576 tests · 94% coverage · CI on 3 OSes · 27 ADRs · v1.6.** |
+| [**docubot**](https://github.com/Abolfazlrwm/docubot) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/docubot?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers with citations. **298 tests · 94.7% coverage.** |
+| [**forecastforge**](https://github.com/Abolfazlrwm/forecastforge) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/forecastforge?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Reproducible time-series forecasting — **leakage-safe walk-forward backtesting**, strict mypy, 85% coverage floor, honest benchmarks. |
+| [**football-battle-arena**](https://github.com/Abolfazlrwm/football-battle-arena) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/football-battle-arena?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | Cinematic football website — every club is a battle team. Next.js · **[live demo](https://football-battle-arena.vercel.app).** |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/awesome-scripts?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 38 ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
 
 ---
 
