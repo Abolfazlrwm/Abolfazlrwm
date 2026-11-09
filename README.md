@@ -85,6 +85,8 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | Project | What I did | Status |
 |---|---|---|
 | [**Apache Airflow**](https://github.com/apache/airflow) | [#76629](https://github.com/apache/airflow/pull/76629) — DAG-level `on_failure_callback` never fired; the scheduler only logged `callback is empty`. Root-caused a SQLAlchemy session-recovery gap in the scheduler's callback-production path, fixed it, and added failure-mode tests that simulate the poisoned-session state **for real** (genuine `IntegrityError` flush, not mocks). Closes [#63374](https://github.com/apache/airflow/issues/63374). | ✅ CI green on sqlite · postgres · mysql — reviewed, awaiting merge |
+| [**Apache Airflow**](https://github.com/apache/airflow) | [#76627](https://github.com/apache/airflow/pull/76627) — operator extra links are resolved through XCom for every task instance, even when the URL is constant, so a link that was never pushed renders empty. Added static extra links rendered straight from the operator definition (docs, dashboards, consoles) with no XCom round-trip, plus UI renderer tests. Closes [#55432](https://github.com/apache/airflow/issues/55432). | 🔎 open — mergeable, awaiting review |
+| [**sqlfluff**](https://github.com/sqlfluff/sqlfluff) | [#9072](https://github.com/sqlfluff/sqlfluff/pull/9072) — `LT02` flagged `VALUES`-clause indents inside brackets (`FROM (VALUES …)`, `WITH … AS (VALUES …)`), where the brackets already provide the indentation. Fixes the false positive and adds regression tests for both bracketed forms. Closes [#9055](https://github.com/sqlfluff/sqlfluff/issues/9055). | 🔎 open — in review |
 
 ---
 
