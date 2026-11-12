@@ -21,10 +21,10 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 |---|---|
 | [**NexusHub**](https://github.com/Abolfazlrwm/NexusHub) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/NexusHub?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Self-hosted AI agent platform on top of NexusAgent — tool calling, streaming, memory & RAG, **eval-first with full trace observability.** |
 | [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/SecureSync?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Encrypted P2P file synchronization engine — async networking, E2E encryption, Clean Architecture. **576 tests · 94% coverage · CI on 3 OSes · 27 ADRs · v1.6.** |
-| [**docubot**](https://github.com/Abolfazlrwm/docubot) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/docubot?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers with citations. **298 tests · 94.7% coverage.** |
+| [**docubot**](https://github.com/Abolfazlrwm/docubot) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/docubot?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers with citations. **330 tests · 95% coverage.** |
 | [**forecastforge**](https://github.com/Abolfazlrwm/forecastforge) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/forecastforge?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Reproducible time-series forecasting — **leakage-safe walk-forward backtesting**, strict mypy, 85% coverage floor, honest benchmarks. |
 | [**football-battle-arena**](https://github.com/Abolfazlrwm/football-battle-arena) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/football-battle-arena?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | Cinematic football website — every club is a battle team. Next.js · **[live demo](https://football-battle-arena.vercel.app).** |
-| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/awesome-scripts?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 38 ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/awesome-scripts?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 74 ready-to-use Telegram bots, web tools & desktop apps — **my most-starred work (80+ ⭐).** |
 
 ---
 
@@ -35,7 +35,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | Project | What it is |
 |---|---|
 | [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) | Encrypted P2P file synchronization engine — async networking, end-to-end encryption, Clean Architecture. **576 tests · 94% coverage · CI on 3 OSes · 27 ADRs · v1.6.** |
-| [**NetScope**](https://github.com/Abolfazlrwm/netscope) | Network troubleshooting that tells you whether the problem is your Wi-Fi, your ISP or the service — **with evidence, not just ping numbers.** 525 tests. |
+| [**NetScope**](https://github.com/Abolfazlrwm/netscope) | Network troubleshooting that tells you whether the problem is your Wi-Fi, your ISP or the service — **with evidence, not just ping numbers.** 890 tests. |
 | [**live-attack-map**](https://github.com/Abolfazlrwm/live-attack-map) | SSH honeypot that catches **real** brute-force attempts and streams them to an animated world map. **[🔴 live demo](https://live-attack-map-demo.onrender.com)** |
 | [**hyperfinder**](https://github.com/Abolfazlrwm/hyperfinder) | Multi-threaded file search engine in **C++17** — built on a custom thread pool. |
 
@@ -45,15 +45,15 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 |---|---|
 | [**NexusHub**](https://github.com/Abolfazlrwm/NexusHub) | Self-hosted AI agent platform on top of NexusAgent — tool calling, streaming, memory & RAG, **eval-first with full trace observability.** |
 | [**NexusAgent**](https://github.com/Abolfazlrwm/nexusagent) | Modular runtime for AI agents — agents, providers, tools, memory, and a small readable core. |
-| [**docubot**](https://github.com/Abolfazlrwm/docubot) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers **with citations. 298 tests · 94.7% coverage.** |
+| [**docubot**](https://github.com/Abolfazlrwm/docubot) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers **with citations. 330 tests · 95% coverage.** |
 | [**ForecastForge**](https://github.com/Abolfazlrwm/forecastforge) | Reproducible time-series forecasting with **leakage-safe walk-forward backtesting** — strict mypy, 85% coverage floor, ADR-driven. |
-| [**Machine-Learning Lab**](https://github.com/Abolfazlrwm/Machine-Learning) | Persian **RAG assistant with hybrid retrieval** — BM25 built from scratch, fused with multilingual E5 via **RRF**, RAGAS-style evaluation on a golden set, FastAPI + Docker serving. **121 tests · 3 CI jobs · 🤗 [live demo in your browser](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant).** |
+| [**Machine-Learning Lab**](https://github.com/Abolfazlrwm/Machine-Learning) | Persian **RAG assistant with hybrid retrieval** — BM25 built from scratch, fused with multilingual E5 via **RRF**, RAGAS-style evaluation on a golden set, FastAPI + Docker serving. **194 tests · 3 CI jobs · 🤗 [live demo in your browser](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant).** |
 
 ### 🚀 Products & Tools
 
 | Project | What it is |
 |---|---|
-| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 38 ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 74 ready-to-use Telegram bots, web tools & desktop apps — **my most-starred work (80+ ⭐).** |
 | [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.0 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
 | [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **31 ADRs**, **23 CI drills**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.0.0 stable.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
