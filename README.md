@@ -55,7 +55,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 |---|---|
 | [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 38 ready-to-use Telegram bots, web and desktop tools — **my most-starred work (80+ ⭐).** |
 | [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.0 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
-| [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **deploy-time cosign verify**, **disaster recovery**, **cost dashboard**, Terraform, chaos engineering. **v0.7.0 shipped.** |
+| [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **multi-provider Terraform**, **architecture docs**, deploy-time cosign verify, disaster recovery. **v0.8.0 shipped.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
 
 ---
