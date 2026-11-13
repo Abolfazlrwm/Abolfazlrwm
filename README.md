@@ -54,8 +54,8 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | Project | What it is |
 |---|---|
 | [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 74 ready-to-use Telegram bots, web tools & desktop apps — **my most-starred work (80+ ⭐).** |
-| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.0 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
-| [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **31 ADRs**, **23 CI drills**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.0.0 stable.** |
+| [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.1 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
+| [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **31 ADRs**, **23 CI drills**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.0.1 stable.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
 
 ---
