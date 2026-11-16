@@ -20,7 +20,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | Repo | What it is |
 |---|---|
 | [**NexusHub**](https://github.com/Abolfazlrwm/NexusHub) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/NexusHub?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Self-hosted AI agent platform on top of NexusAgent — tool calling, streaming, memory & RAG, **full trace observability.** |
-| [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/SecureSync?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Encrypted P2P file synchronization engine — async networking, E2E encryption, Clean Architecture. **734 tests · 94% coverage · CI on 3 OSes · 28 ADRs · v1.6.** |
+| [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/SecureSync?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Encrypted P2P file synchronization engine — async networking, E2E encryption, Clean Architecture. **734 tests · 94% coverage · CI on 3 OSes · 27 ADRs · v1.6.** |
 | [**docubot**](https://github.com/Abolfazlrwm/docubot) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/docubot?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers with citations. **330 tests · 95% coverage.** |
 | [**forecastforge**](https://github.com/Abolfazlrwm/forecastforge) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/forecastforge?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Reproducible time-series forecasting — **leakage-safe walk-forward backtesting**, strict mypy, 85% coverage floor, honest benchmarks. |
 | [**football-battle-arena**](https://github.com/Abolfazlrwm/football-battle-arena) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/football-battle-arena?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | Cinematic football website — every club is a battle team. Next.js · **[live demo](https://football-battle-arena.vercel.app).** |
@@ -34,7 +34,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 | Project | What it is |
 |---|---|
-| [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) | Encrypted P2P file synchronization engine — async networking, end-to-end encryption, Clean Architecture. **734 tests · 94% coverage · CI on 3 OSes · 28 ADRs · v1.6.** |
+| [**SecureSync**](https://github.com/Abolfazlrwm/SecureSync) | Encrypted P2P file synchronization engine — async networking, end-to-end encryption, Clean Architecture. **734 tests · 94% coverage · CI on 3 OSes · 27 ADRs · v1.6.** |
 | [**NetScope**](https://github.com/Abolfazlrwm/netscope) | Network troubleshooting that tells you whether the problem is your Wi-Fi, your ISP or the service — **with evidence, not just ping numbers.** 941 tests. |
 | [**live-attack-map**](https://github.com/Abolfazlrwm/live-attack-map) | SSH honeypot that catches **real** brute-force attempts and streams them to an animated world map. **[🔴 live demo](https://live-attack-map-demo.onrender.com)** |
 | [**hyperfinder**](https://github.com/Abolfazlrwm/hyperfinder) | Multi-threaded file search engine in **C++17** — built on a custom thread pool. |
@@ -55,7 +55,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 |---|---|
 | [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 89 ready-to-use projects — Telegram bots, web tools & desktop apps — **my most-starred work (80+ ⭐).** |
 | [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.1 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
-| [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **31 ADRs**, **29 CI workflows incl. 11 drill suites**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.2.0 stable.** |
+| [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **30 ADRs**, **29 CI workflows incl. 11 drill suites**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.2.0 stable.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
 
 ---
