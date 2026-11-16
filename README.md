@@ -38,6 +38,10 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | [**NetScope**](https://github.com/Abolfazlrwm/netscope) | Network troubleshooting that tells you whether the problem is your Wi-Fi, your ISP or the service — **with evidence, not just ping numbers.** 941 tests. |
 | [**live-attack-map**](https://github.com/Abolfazlrwm/live-attack-map) | SSH honeypot that catches **real** brute-force attempts and streams them to an animated world map. **[🔴 live demo](https://live-attack-map-demo.onrender.com)** |
 | [**hyperfinder**](https://github.com/Abolfazlrwm/hyperfinder) | Multi-threaded file search engine in **C++17** — built on a custom thread pool. |
+| [**IUT_Food**](https://github.com/Abolfazlrwm/IUT_Food) | Campus food-ordering in Qt/C++17 — wallet, coupons, live order tracking, TCP server & SQLite. |
+| [**Car-Rental-System**](https://github.com/Abolfazlrwm/Car-Rental-System) | Rental management in C++17 — hand-written AVL / hash table / heap, salted SHA-256 auth. **5,416 checks (CI-run), zero dependencies.** |
+| [**Vehicle**](https://github.com/Abolfazlrwm/Vehicle) | Dealership management in modern C++17 — sell & rent, discounts, JSON persistence, 3-OS CI. |
+| [**My-Git**](https://github.com/Abolfazlrwm/My-Git) | A minimalist version control system built from scratch in modern C++ — content-addressable storage. |
 
 ### 🤖 AI & Agents
 
@@ -48,6 +52,9 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | [**docubot**](https://github.com/Abolfazlrwm/docubot) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers **with citations. 330 tests · 95% coverage.** |
 | [**ForecastForge**](https://github.com/Abolfazlrwm/forecastforge) | Reproducible time-series forecasting with **leakage-safe walk-forward backtesting** — strict mypy, 85% coverage floor, ADR-driven. |
 | [**Machine-Learning Lab**](https://github.com/Abolfazlrwm/Machine-Learning) | Persian **RAG assistant with hybrid retrieval** — BM25 built from scratch, fused with multilingual E5 via **RRF**, RAGAS-style evaluation on a golden set, FastAPI + Docker serving. **183 tests · 3 CI jobs · 🤗 [live demo in your browser](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant).** |
+| [**PitchVision-AI**](https://github.com/Abolfazlrwm/PitchVision-AI) | Football video intelligence MVP — YOLOv8 detection → ByteTrack tracking, tactical boards & heatmaps. **Real CV pipeline · 58 tests, CI-verified.** |
+| [**sokhan**](https://github.com/Abolfazlrwm/sokhan) | Persian-first speech-to-text — voice message in, transcript & summary out. Self-hostable (FastAPI + faster-whisper + Telegram). |
+| [**persianeval**](https://github.com/Abolfazlrwm/persianeval) | The first serious open-source benchmark for LLMs on Persian — 8 tasks, reproducible harness, weekly leaderboard. |
 
 ### 🚀 Products & Tools
 
@@ -57,6 +64,11 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.1 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
 | [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **30 ADRs**, **29 CI workflows incl. 11 drill suites**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.2.0 stable.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
+| [**growthplanner**](https://github.com/Abolfazlrwm/growthplanner) | A calm Persian/English planner connecting big goals to daily tasks — Django + DRF + HTMX. |
+| [**nobat**](https://github.com/Abolfazlrwm/nobat) | Multi-business appointment booking — Laravel 12 + Vue 3, RTL & Jalali calendar. |
+| [**rategate**](https://github.com/Abolfazlrwm/rategate) | Distributed rate limiting in Go — token bucket & sliding window, REST + gRPC, Prometheus & OpenTelemetry. |
+| [**Security**](https://github.com/Abolfazlrwm/Security) | Nine-tool security toolkit — subdomain enum, port scan, takeover detection, JWT analyzer, CVE lookup. Zero dependencies, CI-tested. |
+| [**techstack-1405-devops-assignments**](https://github.com/Abolfazlrwm/techstack-1405-devops-assignments) | DevOps course assignments (Techstack 1405). |
 
 ---
 
