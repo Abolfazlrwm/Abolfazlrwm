@@ -24,7 +24,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | [**docubot**](https://github.com/Abolfazlrwm/docubot) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/docubot?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers with citations. **330 tests · 95% coverage.** |
 | [**forecastforge**](https://github.com/Abolfazlrwm/forecastforge) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/forecastforge?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Reproducible time-series forecasting — **leakage-safe walk-forward backtesting**, strict mypy, 85% coverage floor, honest benchmarks. |
 | [**football-battle-arena**](https://github.com/Abolfazlrwm/football-battle-arena) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/football-battle-arena?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) | Cinematic football website — every club is a battle team. Next.js · **[live demo](https://football-battle-arena.vercel.app).** |
-| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/awesome-scripts?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 89 ready-to-use projects — Telegram bots, web tools & desktop apps — **my most-starred work (80+ ⭐).** |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) ![stars](https://img.shields.io/github/stars/Abolfazlrwm/awesome-scripts?style=flat&logo=github&labelColor=1a1b26&color=7aa2f7) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | 109 ready-to-run projects — Telegram bots, web tools & desktop utilities — **my most-starred work (81 ⭐ · [interactive gallery](https://abolfazlrwm.github.io/awesome-scripts/)).** |
 
 ---
 
@@ -39,36 +39,34 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 | [**live-attack-map**](https://github.com/Abolfazlrwm/live-attack-map) | SSH honeypot that catches **real** brute-force attempts and streams them to an animated world map. **[🔴 live demo](https://live-attack-map-demo.onrender.com)** |
 | [**hyperfinder**](https://github.com/Abolfazlrwm/hyperfinder) | Multi-threaded file search engine in **C++17** — built on a custom thread pool. |
 | [**IUT_Food**](https://github.com/Abolfazlrwm/IUT_Food) | Campus food-ordering in Qt/C++17 — wallet, coupons, live order tracking, TCP server & SQLite. |
-| [**Car-Rental-System**](https://github.com/Abolfazlrwm/Car-Rental-System) | Rental management in C++17 — hand-written AVL / hash table / heap, salted SHA-256 auth. **5,416 checks (CI-run), zero dependencies.** |
-| [**Vehicle**](https://github.com/Abolfazlrwm/Vehicle) | Dealership management in modern C++17 — sell & rent, discounts, JSON persistence, 3-OS CI. |
-| [**My-Git**](https://github.com/Abolfazlrwm/My-Git) | A minimalist version control system built from scratch in modern C++ — content-addressable storage. |
+| [**Car-Rental-System**](https://github.com/Abolfazlrwm/Car-Rental-System) | Rental management in C++17 — hand-written AVL / hash table / heap, salted SHA-256 auth. **5,416 checks (CI-run), zero dependencies · [docs & demo](https://abolfazlrwm.github.io/Car-Rental-System/).** |
+
+> 🔒 Three more systems — **My-Git** (a version-control system from scratch in C++, content-addressable storage), **PitchVision-AI** (football video intelligence with YOLOv8 → ByteTrack) and **Vehicle** (dealership management) — are private during review. Happy to walk through them in an interview.
 
 ### 🤖 AI & Agents
 
 | Project | What it is |
 |---|---|
 | [**NexusHub**](https://github.com/Abolfazlrwm/NexusHub) | Self-hosted AI agent platform on top of NexusAgent — tool calling, streaming, memory & RAG, **full trace observability.** |
-| [**NexusAgent**](https://github.com/Abolfazlrwm/nexusagent) | Modular runtime for AI agents — agents, providers, tools, memory, and a small readable core. |
+| [**NexusAgent**](https://github.com/Abolfazlrwm/nexusagent) | Modular runtime for AI agents — agents, providers, tools, memory, and a small readable core. **On [PyPI](https://pypi.org/project/nexusagent-runtime/) — `pip install nexusagent-runtime`.** |
 | [**docubot**](https://github.com/Abolfazlrwm/docubot) | Production-grade RAG knowledge-base backend — Django 5.2 + pgvector + Celery, streaming answers **with citations. 330 tests · 95% coverage.** |
 | [**ForecastForge**](https://github.com/Abolfazlrwm/forecastforge) | Reproducible time-series forecasting with **leakage-safe walk-forward backtesting** — strict mypy, 85% coverage floor, ADR-driven. |
 | [**Machine-Learning Lab**](https://github.com/Abolfazlrwm/Machine-Learning) | Persian **RAG assistant with hybrid retrieval** — BM25 built from scratch, fused with multilingual E5 via **RRF**, RAGAS-style evaluation on a golden set, FastAPI + Docker serving. **183 tests · 3 CI jobs · 🤗 [live demo in your browser](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant).** |
-| [**PitchVision-AI**](https://github.com/Abolfazlrwm/PitchVision-AI) | Football video intelligence MVP — YOLOv8 detection → ByteTrack tracking, tactical boards & heatmaps. **Real CV pipeline · 58 tests, CI-verified.** |
-| [**sokhan**](https://github.com/Abolfazlrwm/sokhan) | Persian-first speech-to-text — voice message in, transcript & summary out. Self-hostable (FastAPI + faster-whisper + Telegram). |
-| [**persianeval**](https://github.com/Abolfazlrwm/persianeval) | The first serious open-source benchmark for LLMs on Persian — 8 tasks, reproducible harness, weekly leaderboard. |
+| [**sokhan**](https://github.com/Abolfazlrwm/sokhan) | Persian-first speech-to-text — voice message in, transcript & summary out. Self-hostable (FastAPI + faster-whisper + Telegram). **🤗 [live demo](https://huggingface.co/spaces/Abol0pati/sokhan-fa-demo).** |
+| [**persianeval**](https://github.com/Abolfazlrwm/persianeval) | The first serious open-source benchmark for LLMs on Persian — 8 tasks, reproducible harness, weekly leaderboard. **[Leaderboard & docs](https://abolfazlrwm.github.io/persianeval/).** |
 
 ### 🚀 Products & Tools
 
 | Project | What it is |
 |---|---|
-| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 89 ready-to-use projects — Telegram bots, web tools & desktop apps — **my most-starred work (80+ ⭐).** |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 109 ready-to-run projects — Telegram bots, web tools & desktop utilities — **my most-starred work (81 ⭐ · [interactive gallery](https://abolfazlrwm.github.io/awesome-scripts/)).** |
 | [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.1 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
 | [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **30 ADRs**, **29 CI workflows incl. 11 drill suites**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.2.0 stable.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). |
-| [**growthplanner**](https://github.com/Abolfazlrwm/growthplanner) | A calm Persian/English planner connecting big goals to daily tasks — Django + DRF + HTMX. |
-| [**nobat**](https://github.com/Abolfazlrwm/nobat) | Multi-business appointment booking — Laravel 12 + Vue 3, RTL & Jalali calendar. |
+| [**growthplanner**](https://github.com/Abolfazlrwm/growthplanner) | A calm Persian/English planner connecting big goals to daily tasks — Django + DRF + HTMX. **[live demo](https://growthplanner-kappa.vercel.app).** |
+| [**nobat**](https://github.com/Abolfazlrwm/nobat) | Multi-business appointment booking — Laravel 12 + Vue 3, RTL & Jalali calendar. **[live demo](https://nobat-demo.onrender.com).** |
 | [**rategate**](https://github.com/Abolfazlrwm/rategate) | Distributed rate limiting in Go — token bucket & sliding window, REST + gRPC, Prometheus & OpenTelemetry. |
 | [**Security**](https://github.com/Abolfazlrwm/Security) | Nine-tool security toolkit — subdomain enum, port scan, takeover detection, JWT analyzer, CVE lookup. Zero dependencies, CI-tested. |
-| [**techstack-1405-devops-assignments**](https://github.com/Abolfazlrwm/techstack-1405-devops-assignments) | DevOps course assignments (Techstack 1405). |
 
 ---
 
@@ -88,6 +86,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 ◉ NexusHub   → agent evals, deployment stories, first external contributors
 ◉ NetScope   → from MVP to a real diagnostic platform
 ◉ NexusAgent → tool selection and memory
+◉ meta/astryx → InputGroup a11y fix in spec review (#11418)
 ◉ apache/airflow → scheduler follow-up work from the #76629 review feedback
 ```
 
@@ -97,6 +96,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 | Project | What I did | Status |
 |---|---|---|
+| [**Meta Astryx**](https://github.com/meta/astryx) | [#11418](https://github.com/meta/astryx/pull/11418) — inside `InputGroup` a group `error` status never reached the fields' `aria-invalid`, so screen readers announced a rejected form as valid. Root-caused the missing status propagation, fixed it across all eleven admitted input kinds (incl. the native time picker), and resolved three rounds of the repo's review bot. Closes [#8974](https://github.com/meta/astryx/issues/8974). | 🟡 all automated gates green — awaiting engineering-owner spec decision & CLA |
 | [**Apache Airflow**](https://github.com/apache/airflow) | [#76629](https://github.com/apache/airflow/pull/76629) — DAG-level `on_failure_callback` never fired; the scheduler only logged `callback is empty`. Root-caused a SQLAlchemy session-recovery gap in the scheduler's callback-production path, fixed it, and added failure-mode tests that simulate the poisoned-session state **for real** (genuine `IntegrityError` flush, not mocks). Closes [#63374](https://github.com/apache/airflow/issues/63374). | ✅ CI green on sqlite · postgres · mysql — reviewed, awaiting merge |
 | [**Apache Airflow**](https://github.com/apache/airflow) | [#76627](https://github.com/apache/airflow/pull/76627) — operator extra links are resolved through XCom for every task instance, even when the URL is constant, so a link that was never pushed renders empty. Added static extra links rendered straight from the operator definition (docs, dashboards, consoles) with no XCom round-trip, plus UI renderer tests. Closes [#55432](https://github.com/apache/airflow/issues/55432). | 🔎 open — mergeable, awaiting review |
 | [**sqlfluff**](https://github.com/sqlfluff/sqlfluff) | [#9072](https://github.com/sqlfluff/sqlfluff/pull/9072) — `LT02` flagged `VALUES`-clause indents inside brackets (`FROM (VALUES …)`, `WITH … AS (VALUES …)`), where the brackets already provide the indentation. Fixes the false positive and adds regression tests for both bracketed forms. Closes [#9055](https://github.com/sqlfluff/sqlfluff/issues/9055). | ⭕ closed — not merged |
