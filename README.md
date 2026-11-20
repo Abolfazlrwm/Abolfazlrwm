@@ -11,7 +11,7 @@
 
 > *I like difficult problems — not because they're easy to explain, but because they're interesting to solve.*
 
-Computer Engineering @ IUT. All open source, all engineered the same way: clear boundaries, real tests, written decisions.
+Computer Engineering @ IUT. Everything here is open source — engineered to different depths for different purposes: systems with clear boundaries, real tests and written decisions; utility collections with honest labels about what they are.
 
 **I build secure distributed systems and applied AI** — from async networking and workflow engines to from-scratch deep learning. Below: the five projects that prove it, the full lab, and an honest map of what each project does **and does not** demonstrate.
 
@@ -60,7 +60,7 @@ Computer Engineering @ IUT. All open source, all engineered the same way: clear 
 
 | Project | What it is |
 |---|---|
-| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 109 ready-to-run projects — Telegram bots, web tools & desktop utilities — **my most-starred work (81 ⭐ · [interactive gallery](https://abolfazlrwm.github.io/awesome-scripts/)).** *Community utility collection — breadth, not engineering depth.* |
+| [**awesome-scripts**](https://github.com/Abolfazlrwm/awesome-scripts) | 109 ready-to-run projects — Telegram bots, web tools & desktop utilities (81 ⭐ · [interactive gallery](https://abolfazlrwm.github.io/awesome-scripts/)). *Community utility collection — breadth, not engineering depth; several bots are template-driven starter kits, labeled as such in the README.* |
 | [**FlowForge**](https://github.com/Abolfazlrwm/flowforge) | Django workflow engine — outbox, leases, fencing tokens, OpenAPI SDK, failure-injection test suite. **v1.0.1 shipped · [docs](https://abolfazlrwm.github.io/flowforge/).** |
 | [**stacksmith**](https://github.com/Abolfazlrwm/stacksmith) | Production deployment kit for docubot — **30 ADRs**, **29 CI workflows incl. 11 drill suites**, cosign-signed multi-arch images, disaster recovery, Terraform. **v1.2.0 stable.** |
 | [**Football Battle Arena**](https://github.com/Abolfazlrwm/football-battle-arena) | Cinematic football website — every club is a battle team. Next.js · [live demo](https://football-battle-arena.vercel.app). *Frontend showcase.* |
@@ -101,6 +101,24 @@ Saying it myself before an interviewer finds it:
 - **MLOps** — no complete experiment-tracking / model-registry / drift-monitoring pipeline shipped (forecastforge is pre-alpha).
 - **Databases at scale** — pgvector, Postgres and SQLite, yes; replication, sharding and query optimization under real load, no.
 - **A formal crypto audit** — SecureSync composes audited primitives and publishes a threat model ([docs/security.md](https://github.com/Abolfazlrwm/SecureSync/blob/main/docs/security.md)), but the handshake composition is custom and unaudited, and says so.
+
+---
+
+## 🤝 HOW I WORK — AI-assisted, human-owned
+
+Transparency about the process, so the repos speak for themselves:
+
+- **AI-assisted development.** A large share of the code, tests and docs across
+  these repos was drafted with AI coding assistants (including an agentic
+  platform for several projects), then reviewed, tested, corrected and shipped
+  by me. Where a project was built on an AI platform (e.g. growthplanner on
+  Manus), the repo README says so explicitly.
+- **Human ownership.** Architecture decisions, threat models, ADRs, security
+  hardening and release calls are made and owned by a human (me). Every repo
+  carries real CI, real tests and honest documentation of what it does *not*
+  demonstrate.
+- **Honest provenance.** Utility collections and forks are labeled as such —
+  nothing here pretends to be more than it is.
 
 ---
 
