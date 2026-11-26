@@ -67,7 +67,7 @@ Computer Engineering @ IUT. Everything here is open source — engineered to dif
 | [**growthplanner**](https://github.com/Abolfazlrwm/growthplanner) | A calm Persian/English planner connecting big goals to daily tasks — Django + DRF + HTMX. **[live demo](https://growthplanner-kappa.vercel.app).** |
 | [**nobat**](https://github.com/Abolfazlrwm/nobat) | Multi-business appointment booking — Laravel 12 + Vue 3, RTL & Jalali calendar. **[live demo](https://nobat-demo.onrender.com).** |
 | [**rategate**](https://github.com/Abolfazlrwm/rategate) | Distributed rate limiting in Go — token bucket & sliding window, REST + gRPC, Prometheus & OpenTelemetry. |
-| [**Security**](https://github.com/Abolfazlrwm/Security) | Nine-tool security toolkit — subdomain enum, port scan, takeover detection, JWT analyzer, CVE lookup. Zero dependencies, CI-tested. |
+| [**Security**](https://github.com/Abolfazlrwm/Security) | Nine-tool security toolkit — subdomain enum, port scan, takeover detection, JWT analyzer, CVE lookup. Zero dependencies, CI-tested, every release attested. **[live docs + demo](https://abolfazlrwm.github.io/Security/).** |
 
 ---
 
